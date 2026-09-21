@@ -1,4 +1,4 @@
-# KoKo Mart — React E-Commerce Application
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d9c55d65-ddf7-4c0b-b34d-9700e40fe7c0" /># KoKo Mart — React E-Commerce Application
 
 **KoKo Mart** is a responsive e-commerce web app built with React. It uses the
 [DummyJSON products API](https://dummyjson.com/docs/products) to power product
@@ -14,13 +14,51 @@ Live Better" branding).
 
 ## Live Demo
 
-> Deployment link to be added here once deployed (e.g. Vercel / Netlify).
+> https://ko-ko-mart-ecommerce-website.vercel.app/
 
 ---
 
 ## Screenshots
 
-> Screenshots to be added here once the app is running (desktop + mobile).
+> Desktop View
+<img width="1920" height="1080" alt="Screenshot (485)" src="https://github.com/user-attachments/assets/8ad20dbc-2938-4ebe-acd2-5f9459d53681" />
+<img width="1920" height="1080" alt="Screenshot (486)" src="https://github.com/user-attachments/assets/bf114b11-adf4-4ca1-8580-ac96bf653d2f" />
+<img width="1920" height="1080" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/25549c77-57b1-48a2-a57d-2637741344ad" />
+
+> Mobile View
+<img width="1920" height="1080" alt="Screenshot (501)" src="https://github.com/user-attachments/assets/8971b27c-033e-45ff-b71f-2a22e9242349" />
+<img width="1920" height="1080" alt="Screenshot (502)" src="https://github.com/user-attachments/assets/e8ec9338-e747-4d05-9202-8d0dd5d5b337" />
+<img width="1920" height="1080" alt="Screenshot (503)" src="https://github.com/user-attachments/assets/35f4ee8b-35a6-47d5-8b86-fee3a5ff2546" />
+<img width="1920" height="1080" alt="Screenshot (504)" src="https://github.com/user-attachments/assets/7b31327b-6613-44c8-b11d-ae720c3765a7" />
+<img width="1920" height="1080" alt="Screenshot (505)" src="https://github.com/user-attachments/assets/a2a599df-ff89-4df8-9493-41376c18d265" />
+<img width="1920" height="1080" alt="Screenshot (506)" src="https://github.com/user-attachments/assets/c126a83a-1110-485f-97d1-b40431858028" />
+<img width="1920" height="1080" alt="Screenshot (507)" src="https://github.com/user-attachments/assets/2107d22e-1aeb-4883-8332-83b553d19590" />
+
+> View the Product page
+<img width="1920" height="1080" alt="Screenshot (488)" src="https://github.com/user-attachments/assets/171db991-50ea-4901-bfcf-f1e5f1687ee2" />
+<img width="1920" height="1080" alt="Screenshot (489)" src="https://github.com/user-attachments/assets/d3ff3d2a-8cd3-4540-a73e-5a5756674b32" />
+<img width="1920" height="1080" alt="Screenshot (490)" src="https://github.com/user-attachments/assets/56b5247a-ba71-4b85-b6a2-68deee49789a" />
+
+> View the Product featured
+<img width="1920" height="1080" alt="Screenshot (491)" src="https://github.com/user-attachments/assets/9e403fdd-76bc-49f2-a0a6-aef0e6cd45da" />
+<img width="1920" height="1080" alt="Screenshot (492)" src="https://github.com/user-attachments/assets/0d63dd73-745f-4113-b866-aee85b21dc13" />
+
+> View the Product details
+<img width="1920" height="1080" alt="Screenshot (493)" src="https://github.com/user-attachments/assets/84fe2007-da23-4c2d-9dc0-9a30edd6e927" />
+<img width="1920" height="1080" alt="Screenshot (494)" src="https://github.com/user-attachments/assets/208f2342-014a-4882-84b1-834b5efcf9d4" />
+<img width="1920" height="1080" alt="Screenshot (495)" src="https://github.com/user-attachments/assets/ed70cc69-2fd0-4011-a07a-f9798ca213f8" />
+
+> View the Cart page
+<img width="1920" height="1080" alt="Screenshot (496)" src="https://github.com/user-attachments/assets/4ae9b1b7-6fa6-4f64-8ef5-15b53e65eaf9" />
+
+> View the Favourite page
+<img width="1920" height="1080" alt="Screenshot (497)" src="https://github.com/user-attachments/assets/81d786c9-1b62-48a9-a963-dff986669890" />
+
+> View the login page
+<img width="1920" height="1080" alt="Screenshot (498)" src="https://github.com/user-attachments/assets/bf4731e3-9825-4b2d-92e7-8d6cbf849765" />
+
+> View the signup page
+ <img width="1920" height="1080" alt="Screenshot (500)" src="https://github.com/user-attachments/assets/4b2a644e-cae5-465c-856a-9b51f9a0cad1" />
 
 ---
 
